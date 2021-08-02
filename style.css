@@ -1,0 +1,32 @@
+.title {
+    text-align: center;
+    color: lightgreen
+}
+
+.statementtitle {
+    color: blue;
+    text-align: center;
+}
+
+.statementbox {
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 0px;
+    padding: 1em;
+    v color: red;
+    width: 90%;
+}
+
+.statement {
+    border: 5 px red solid;
+    border-radius: 2px;
+    background-color: lightgrey;
+    text-align: center;
+    order: 1;
+    padding: 1em;
+}
